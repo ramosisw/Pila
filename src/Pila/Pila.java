@@ -8,7 +8,7 @@ import javax.swing.DefaultListModel;
 
 /**
  *
- * @author Estefania
+ * @author Julio C. Ramos
  */
 public class Pila {
 
